@@ -1,0 +1,2 @@
+# openaiwabot
+WA OpenAI Bot
